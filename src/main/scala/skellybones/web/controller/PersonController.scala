@@ -19,7 +19,7 @@ class PersonController @Autowired()(// constructor is autowired
   @RequestMapping(Array("/hello"))
   @ResponseBody
   def hello = {
-    "Welcome to ZenMaster"
+    "Welcome to SkellyBones"
   }
 
   /**

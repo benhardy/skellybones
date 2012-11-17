@@ -13,4 +13,8 @@ RUN INSIDE JETTY
 
 mvn jetty:run
 
+THEN TRY BROWSING TO
 
+http://localhost:9001/hello
+http://localhost:9001/demo/3
+http://localhost:9001/person/3
